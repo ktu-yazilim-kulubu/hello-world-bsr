@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 üye 
+=======
+>>>>>>> parent of bb727da... yazÄ± eklendi
